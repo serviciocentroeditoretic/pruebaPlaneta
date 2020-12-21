@@ -28,5 +28,3 @@ Crear una tabla para almacenar:
 2. Atención a los commits, ¿Qué envias al repositorio y donde?<br />
 3. Habrá que hacer como minimo una subida de lo que tengas hasta el día 09/12/2020.<br />
 4. Se harán cambios en tú código enviado, hasta el día 11/12/2020. Tienes que actuar sobre estos cambios.
-
-- La fecha final para concluir la evaluación es 14/12/2020, lunes 10:00 de la mañana.
