@@ -26,5 +26,5 @@ Crear una tabla para almacenar:
 
 1. Calidad del código - Identación, nomeclaturas, patrones de proyecto, etc.<br />
 2. Atención a los commits, ¿Qué envias al repositorio y donde?<br />
-3. Habrá que hacer como minimo una subida de lo que tengas hasta el día 09/12/2020.<br />
-4. Se harán cambios en tú código enviado, hasta el día 11/12/2020. Tienes que actuar sobre estos cambios.
+3. Habrá que hacer como minimo una subida de lo que tengas antes de la entrega final <br />
+4. Se harán cambios en tú código enviado, hasta la entrega final. Tienes que actuar sobre estos cambios.
